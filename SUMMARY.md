@@ -34,4 +34,8 @@
 * [Labo-01](Labos/Labo-01/README.md)
 * [Labo-02](Labos/Labo-02/README.md)
 
+## Oplossingen
+
+* [Labo-01](Labos/Labo-01/oplossing.md)
+
 ## Project
