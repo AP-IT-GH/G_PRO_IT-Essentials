@@ -9,9 +9,9 @@
 * [Binair](Talstelsels/binair/README.md)
 * [Hexadecimaal](Talstelsels/hexadecimaal/README.md)
 * [Octaal](Talstelsels/octaal/README.md)
-* [Omrekenen naar decimaal](Talstelsels/omrekenen_decimaal/README.MD)
-* [Omrekenen naar binair](Talstelsels/omrekenen_binair/README.MD)
-* [Omrekenen naar octaal of hexadecimaal](Talstelsels/omrekenen_octaal_hexadecimaal/README.MD)
+* [Omrekenen naar decimaal](Talstelsels/omrekenen_decimaal/README.md)
+* [Omrekenen naar binair](Talstelsels/omrekenen_binair/README.md)
+* [Omrekenen naar octaal of hexadecimaal](Talstelsels/omrekenen_octaal_hexadecimaal/README.md)
 
 ## Character Encoding
 
