@@ -8,21 +8,23 @@ In de ICT-wereld kennen we ook enkele talstelsels die voor ons een praktisch nut
 - Het hexadecimaal talstelsel (16 delig)
 - Het octaal talstelsel (8 delig)
 
-## Machten
-Voordat we beginnen aan talstelsels moet het wiskundig concept van een macht eerst gekend zijn. Een machtsverheffing schrijft men als volgt:
+## Machten (Exponenten)
+Voordat we beginnen aan talstelsels moet het wiskundig concept van een macht eerst gekend zijn. Een **machtsverheffing** schrijf je als volgt:
 
 $$
 G^M
 $$
 
-Met: *G* = grondtal en *M* = macht
+Waarbij:
+- **G** = grondtal  
+- **M** = exponent (macht)
 
-Een machtsverheffing rekent men uit door het grondtal M keer te vermenigvuldigen met zichzelf. Dit wordt best geïllustreerd door enkele voorbeelden:
+Een macht berekenen betekent dat je het grondtal **M keer met zichzelf vermenigvuldigt**:
 
+**Voorbeelden:**
 $$
 2^2 = 2 \times 2 = 4
 $$
-
 $$
 2^3 = 2 \times 2 \times 2 = 8
 $$
@@ -57,6 +59,8 @@ U zal in de ICT geregeld de machten van 2 zien voorkomen Waarom ziet u verder in
 | 8192       | $2^{13}$ |
 
 Deze machten komen zo vaak voor dat u ze beter ineens vanbuiten kent. 
+
+Nu we exponenten begrijpen, kunnen we verder met de basisprincipes van elk talstelsel.
 
 ## Notatie
 Als we met getallen in verschillende talstelsels gaan werken kan het soms lastig worden om te zien in welk talstelsel een getal zich bevindt. We spreken dus af dat we in situaties met meerdere talstelsels een getal neerschrijven met onderaan rechts een aanduiding in welk talstelsel het staat. Onderstaand voorbeeld toont dus een getal dat in het decimaal of 10-delig talstelsel zit: 
