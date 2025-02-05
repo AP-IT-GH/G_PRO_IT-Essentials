@@ -31,7 +31,7 @@
 
 ## Labos
 
-* [Labo-01](Talstelsels/Labo-01/README.md)
-* [Labo-02](Talstelsels/Labo-02/README.md)
+* [Labo-01](Labos/Labo-01/README.md)
+* [Labo-02](Labos/Labo-02/README.md)
 
 ## Project
