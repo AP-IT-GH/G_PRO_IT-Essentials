@@ -4,10 +4,13 @@
 
 ## [1. Talstelsels](Talstelsels/README.md)
 
-* [Decimaal](Talstelsels/Decimaal/README.md)
-* [Binair](Talstelsels/Binair/README.md)
-* [Hexadecimaal](Talstelsels/Hexadecimaal/README.md)
-* [Octaal](Talstelsels/Octaal/README.md)
+* [Decimaal](Talstelsels/decimaal/README.md)
+* [Binair](Talstelsels/binair/README.md)
+* [Hexadecimaal](Talstelsels/hexadecimaal/README.md)
+* [Octaal](Talstelsels/octaal/README.md)
+* [Omrekenen naar decimaal](Talstelsels/omrekenen_decimaal/README.MD)
+* [Omrekenen naar binair](Talstelsels/omrekenen_binair/README.MD)
+* [Omrekenen naar octaal of hexadecimaal](Talstelsels/omrekenen_octaal_hexadecimaal/README.MD)
 
 ## [2. Character Encoding](Character_Encoding/README.md)
 
