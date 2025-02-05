@@ -1,4 +1,4 @@
-# 1. Talstelsels
+# Talstelsels
 
 ## Wat zijn talstelsels
 Talstelsels zijn manieren om te tellen. Het meest gekende talstelsel is het decimaal (10 delig) talstelsel dat we dagdagelijks gebruiken. Een ander gekend talstelsel is bijv. het Romeinse talstelsel waarin men soms jaartallen op oudere gebouwen terugvindt. 

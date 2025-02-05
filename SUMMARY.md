@@ -2,8 +2,9 @@
 
 * [Introductie](README.md)
 
-## [1. Talstelsels](Talstelsels/README.md)
+## Talstelsels
 
+* [Overzicht](Talstelsels/README.md)
 * [Decimaal](Talstelsels/decimaal/README.md)
 * [Binair](Talstelsels/binair/README.md)
 * [Hexadecimaal](Talstelsels/hexadecimaal/README.md)
@@ -12,13 +13,21 @@
 * [Omrekenen naar binair](Talstelsels/omrekenen_binair/README.MD)
 * [Omrekenen naar octaal of hexadecimaal](Talstelsels/omrekenen_octaal_hexadecimaal/README.MD)
 
-## [2. Character Encoding](Character_Encoding/README.md)
+## Character Encoding
 
-## [3. Git](Git/README.md)
+* [Overzicht](Character_Encoding/README.md)
 
-## [4. Linux](Linux/README.md)
+## Git
 
-## [5. Docker](Docker/README.md)
+* [Overzicht](Git/README.md)
+
+## Linux
+
+* [Overzicht](Linux/README.md)
+
+## Docker
+
+* [Overzicht](Docker/README.md)
 
 ## Labos
 

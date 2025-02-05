@@ -1,1 +1,1 @@
-# 2. Character Encoding
+# Character Encoding
