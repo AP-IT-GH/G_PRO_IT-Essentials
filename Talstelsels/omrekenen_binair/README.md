@@ -24,9 +24,9 @@ We gebruiken **herhaalde deling door 2**:
 | 5    | 1 ÷ 2   | 0       | **1**            |
 
 **Binaire weergave (lees van onder naar boven):**  
-\[
+$$
 23_{10} = 10111_2
-\]
+$$
 
 ### Voorbeeld: Zet **45₁₀** om naar binair
 
@@ -40,9 +40,9 @@ We gebruiken **herhaalde deling door 2**:
 | 6    | 1 ÷ 2   | 0       | **1**            |
 
 **Binaire weergave (lees van onder naar boven):**  
-\[
+$$
 45_{10} = 101101_2
-\]
+$$
 
 ---
 
@@ -71,9 +71,9 @@ In het **octaal** talstelsel komt elk octaal cijfer **(0-7)** overeen met exact 
    - **7₈** → **111₂**
 
 2. Plak alles aan elkaar:
-   \[
+   $$
    247₈ = 010100111₂
-   \]
+   $$
 
 
 ---
@@ -109,6 +109,6 @@ In het **hexadecimaal** talstelsel komt elk hexadecimaal cijfer **(0-9, A-F)** o
    - **2₁₆** → **0010₂**
 
 2. Plak alles aan elkaar:
-   \[
+   $$
    3F2₁₆ = 001111110010₂
-   \]
+   $$

@@ -21,14 +21,14 @@ We gebruiken **herhaalde deling door 8**:
 | 3    | 2 ÷ 8   | 0       | **2**            |
 
 **Octale weergave (lees van onder naar boven):**  
-\[
+$$
 156_{10} = 234_8
-\]
+$$
 
 ✅ **Snelle controle:**  
-\[
+$$
 2×8^2 + 3×8^1 + 4×8^0 = 156_{10}
-\]  
+$$  
 Dus de berekening klopt!
 
 ### Voorbeeld: Zet **512₁₀** om naar hexadecimaal (₁₆)
@@ -42,14 +42,14 @@ We gebruiken **herhaalde deling door 16**:
 | 3    | 2 ÷ 16   | 0       | **2**            |
 
 **Hexadecimale weergave (lees van onder naar boven):**  
-\[
+$$
 512_{10} = 200_{16}
-\]
+$$
 
 ✅ **Snelle controle:**  
-\[
+$$
 2×16^2 + 0×16^1 + 0×16^0 = 512_{10}
-\]  
+$$  
 De berekening klopt!
 
 ---
@@ -91,14 +91,14 @@ Er is een **snelle methode** om een binair (₂) getal om te zetten naar **octaa
 | 101₂    | 5₈    |
 | 110₂    | 6₈    |
 
-\[
+$$
 101110_2 = 56_8
-\]
+$$
 
 ✅ **Snelle controle:**  
-\[
+$$
 5×8^1 + 6×8^0 = 40 + 6 = 46_{10}
-\]  
+$$  
 De berekening klopt!
 
 
@@ -135,14 +135,14 @@ De berekening klopt!
 | 1101₂   | D₁₆        |
 | 0110₂   | 6₁₆        |
 
-\[
+$$
 11010110_2 = D6_{16}
-\]
+$$
 
 ✅ **Snelle controle:**  
-\[
+$$
 D×16^1 + 6×16^0 = 13×16 + 6 = 208 + 6 = 214_{10}
-\]  
+$$  
 De berekening klopt!
 
 ### Samenvatting

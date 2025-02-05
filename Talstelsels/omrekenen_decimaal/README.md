@@ -68,9 +68,9 @@ Het **hexadecimale talstelsel** gebruikt **16 symbolen**: de cijfers **0-9** en 
 - **3 × 16⁰ = 3**
 
 ### Stap 2: Tel alle waarden op
-\[
+$$
 512 + 240 + 3 = 755_{10}
-\]
+$$
 
 **Conclusie:** **2F3₁₆ = 755₁₀** in decimale notatie.
 

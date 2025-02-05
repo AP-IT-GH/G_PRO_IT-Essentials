@@ -20,9 +20,9 @@ We gebruiken **herhaalde deling door 2**:
 | 5    | 1 ÷ 2   | 0       | **1**            |
 
 **Antwoord:**  
-\[
+$$
 29_{10} = 11101_2
-\]
+$$
 
 ---
 
@@ -40,9 +40,9 @@ Zet **45₁₀** om naar binair.
 | 6    | 1 ÷ 2   | 0       | **1**            |
 
 **Antwoord:**  
-\[
+$$
 45_{10} = 101101_2
-\]
+$$
 
 ---
 
@@ -55,18 +55,18 @@ Zet **1101₂** om naar decimaal.
 
 We gebruiken de **machtsvermenigvuldiging van 2**. Vermenigvuldig elk cijfer met de bijhorende macht van 2 en tel alle waarden op:
 
-\[
+$$
 (1 × 2^3) + (1 × 2^2) + (0 × 2^1) + (1 × 2^0)
-\]
+$$
 
-\[
+$$
 (1 × 8) + (1 × 4) + (0 × 2) + (1 × 1) = 8 + 4 + 0 + 1 = 13
-\]
+$$
 
 **Antwoord:**  
-\[
+$$
 1101_2 = 13_{10}
-\]
+$$
 
 ---
 
@@ -76,18 +76,18 @@ Zet **10110₂** om naar decimaal.
 ### ✅ **Oplossing**
 
 Vermenigvuldig elk cijfer met de bijhorende macht van 2 en tel alle waarden op:
-\[
+$$
 (1 × 2^4) + (0 × 2^3) + (1 × 2^2) + (1 × 2^1) + (0 × 2^0)
-\]
+$$
 
-\[
+$$
 (1 × 16) + (0 × 8) + (1 × 4) + (1 × 2) + (0 × 1) = 16 + 0 + 4 + 2 + 0 = 22
-\]
+$$
 
 **Antwoord:**  
-\[
+$$
 10110_2 = 22_{10}
-\]
+$$
 
 ---
 
@@ -104,9 +104,9 @@ Zet **11110101₂** om naar hexadecimaal.
    - **0101₂ = 5₁₆**
 
 **Antwoord:**  
-\[
+$$
 11110101_2 = F5_{16}
-\]
+$$
 
 ---
 
@@ -121,9 +121,9 @@ Zet **10010111₂** om naar hexadecimaal.
    - **0111₂ = 7₁₆**
 
 **Antwoord:**  
-\[
+$$
 10010111_2 = 97_{16}
-\]
+$$
 
 ---
 
@@ -143,9 +143,9 @@ We gebruiken **herhaalde deling door 8**:
 | 3    | 1 ÷ 8   | 0       | **1**            |
 
 **Antwoord (lees van onder naar boven):**  
-\[
+$$
 83_{10} = 123_8
-\]
+$$
 
 ---
 
@@ -162,9 +162,9 @@ We gebruiken **herhaalde deling door 8**:
 | 3    | 3 ÷ 8   | 0       | **3**            |
 
 **Antwoord (lees van onder naar boven):**  
-\[
+$$
 200_{10} = 310_8
-\]
+$$
 
 ---
 
@@ -179,9 +179,9 @@ Zet **47₈** om naar binair.
    - **7₈** → **111₂**
 
 2. Plak alles aan elkaar:
-   \[
+    $$
     47_8 = 100111_2
-    \]
+    $$
 
 ---
 
@@ -195,6 +195,6 @@ Zet **125₈** om naar binair.
    - **5₈** → **101₂**
 
 2. Plak alles aan elkaar:
-   \[
+    $$
     125_8 = 001010101_2
-    \]
+    $$
