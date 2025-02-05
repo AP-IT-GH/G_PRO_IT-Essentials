@@ -1,0 +1,42 @@
+# 1. Talstelsels
+
+## Wat zijn talstelsels
+Talstelsels zijn manieren om te tellen. Het meest gekende talstelsel is het decimaal (10 delig) talstelsel dat we dagdagelijks gebruiken. Een ander gekend talstelsel is bijv. het Romeinse talstelsel waarin men soms jaartallen op oudere gebouwen terugvindt. 
+
+In de ICT-wereld kennen we ook enkele talstelsels die voor ons een praktisch nut kennen. Deze zijn:
+- het binair talstelsel (2 delig)
+- Het hexadecimaal talstelsel (16 delig)
+- Het octaal talstelsel (8 delig)
+
+## Machten
+Voordat we beginnen aan talstelsels moet het wiskundig concept van een macht eerst gekend zijn. Een machtsverheffing schrijft men als volgt:
+
+Met: 
+G = grondtal
+M = macht
+Een machtsverheffing rekent men uit door het grondtal M keer te vermenigvuldigen met zichzelf. Dit wordt best geïllustreerd door enkele voorbeelden:
+
+
+Er is ook nog een speciaal geval onder de machten en dat is de 0de macht. Eender welk getal tot de macht 0 is altijd 1. Zie ook weer de voorbeelden hieronder:
+
+
+U zal in de ICT geregeld de machten van 2 zien voorkomen Waarom ziet u verder in de cursus. Hier is al vast een lijstje van de eerste reeks machten van 2:
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+1024
+2048
+4096
+8192
+Deze machten komen zo vaak voor dat u ze beter ineens vanbuiten kent. 
+
+## Notatie
+Als we met getallen in verschillende talstelsels gaan werken kan het soms lastig worden om te zien in welk talstelsel een getal zich bevindt. We spreken dus af dat we in situaties met meerdere talstelsels een getal neerschrijven met onderaan rechts een aanduiding in welk talstelsel het staat. Onderstaand voorbeeld toont dus een getal dat in het decimaal of 10-delig talstelsel zit: 
+

@@ -1,0 +1,2 @@
+# Het decimaal talstelsel
+Het decimaal of 10-delig talstelsel is voor ons allen het best gekende talstelsel. Het bestaat uit 10 delen en het heeft een gewogen structuur. De positie van een getal bepaald dus de waarde ervan. Het is belangrijk dat we de structuur van het decimaal talstelsel te begrijpen zodat we daarna de structuren van andere talstelsels kunnen begrijpen.

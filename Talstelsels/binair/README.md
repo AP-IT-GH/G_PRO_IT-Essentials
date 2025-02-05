@@ -1,0 +1,3 @@
+# Het binair talstelsel
+
+Het binair of 2-delig talstelsel heeft zoals de naam aangeeft slechts 2 symbolen. Computers werken eigenlijk altijd binair. Dit omdat een binaire waarde zeer gemakkelijk is voor te stellen met een elektrisch signaal. Als het elektrisch signaal aanstaat komt dit overeen met een 1 en als het uitstaat met een 0. Door zo meerdere elektrische signalen te combineren kunnen we dus een binair getal vormen.
