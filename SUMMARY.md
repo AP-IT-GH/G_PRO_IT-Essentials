@@ -16,6 +16,9 @@
 ## Character Encoding
 
 * [Overzicht](Character_Encoding/README.md)
+* [Bits & Bytes](Character_Encoding/opslag.md)
+* [Soorten Encodings](Character_Encoding/karakterCoderingen.md)
+* [Unicode](Character_Encoding/Unicode.md)
 
 ## Git
 
@@ -37,5 +40,6 @@
 ## Oplossingen
 
 * [Labo-01](Labos/Labo-01/oplossing.md)
+* [Labo-02](Labos/Labo-02/oplossing.md)
 
 ## Project
