@@ -53,32 +53,6 @@ De binaire waarde wordt verdeeld over het juiste aantal bytes en ingevuld in het
    - `11100010 10000010 10101100`
 4. UTF-8 representatie = `E2 82 AC` (hexadecimaal)
 
-## Hoe wordt UTF-8 omgezet naar een Unicode codepoint?
-
-De omzetting van een UTF-8 bytevolgorde terug naar een Unicode codepoint gebeurt in omgekeerde stappen:
-
-#### **Stap 1: Bepaal het aantal bytes**
-Het eerste byte geeft aan hoeveel bytes het karakter gebruikt:
-- `0xxxxxxx` → 1 byte
-- `110xxxxx` → 2 bytes
-- `1110xxxx` → 3 bytes
-- `11110xxx` → 4 bytes
-
-#### **Stap 2: Verwijder de UTF-8 headers**
-De extra bits (zoals `110`, `1110`, `11110`) worden verwijderd en de resterende bits worden samengevoegd.
-
-#### **Stap 3: Omzetten naar decimaal**
-Het binaire getal wordt omgezet naar een decimale Unicode codepoint.
-
-**Voorbeeld:** Om `E2 82 AC` terug om te zetten naar een Unicode codepoint:
-1. **E2 82 AC** in binair:
-   - `E2` → `11100010`
-   - `82` → `10000010`
-   - `AC` → `10101100`
-2. Verwijder de headers (`1110`, `10`, `10`):
-   - `0010 0000 1010 1100`
-3. Zet om naar decimaal: **U+20AC** (euro-teken `€`).
-
 
 ## Hoeveel bytes gebruikt een karakter?
 Je kunt de codepoint van een karakter controleren en vergelijken met de bovenstaande ranges om te bepalen hoeveel **bytes** er nodig zijn.
@@ -98,3 +72,29 @@ Je kunt de codepoint van een karakter controleren en vergelijken met de bovensta
 
 **UTF-32** gebruikt **altijd 4 bytes** per karakter, ongeacht de codepoint.
 
+
+## Hoe wordt UTF-8 omgezet naar een Unicode codepoint?
+
+De omzetting van een UTF-8 bytevolgorde terug naar een Unicode codepoint gebeurt in omgekeerde stappen:
+
+#### **Stap 1: Bepaal het aantal bytes**
+Het eerste byte geeft aan hoeveel bytes het karakter gebruikt:
+- `0xxxxxxx` → 1 byte
+- `110xxxxx` → 2 bytes
+- `1110xxxx` → 3 bytes
+- `11110xxx` → 4 bytes
+
+#### **Stap 2: Verwijder de UTF-8 headers**
+De extra bits (zoals `110`, `1110`, `11110`) worden verwijderd en de resterende bits worden samengevoegd.
+
+#### **Stap 3: Omzetten naar hexadecimaal**
+Het binaire getal wordt omgezet naar een decimale Unicode codepoint.
+
+**Voorbeeld:** Om `E2 82 AC` terug om te zetten naar een Unicode codepoint:
+1. **E2 82 AC** in binair:
+   - `E2` → `11100010`
+   - `82` → `10000010`
+   - `AC` → `10101100`
+2. Verwijder de headers (`1110`, `10`, `10`):
+   - `0010 0000 1010 1100`
+3. Zet om naar hexadecimaal: **U+20AC** (euro-teken `€`).
