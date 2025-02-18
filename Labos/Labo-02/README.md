@@ -3,7 +3,7 @@
 ### Leerstof
 - Character Encoding
 
-## Hulpbronnen
+### Hulpbronnen
 - [ASCI tabel](http://www.asciitabel.be/)
 
 ### Oefening 1: ASCII opzoeken
