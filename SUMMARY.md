@@ -20,9 +20,13 @@
 * [Soorten Encodings](Character_Encoding/karakterCoderingen.md)
 * [Unicode](Character_Encoding/Unicode.md)
 
+## Folderstructuur en de Terminal
+
+* [Overzicht](Folderstructuur_Terminal/folder_structure_terminal.md)
+
 ## Git
 
-* [Overzicht](Git/README.md)
+* [Overzicht](Git/git_version_control.md)
 
 ## Linux
 
@@ -36,10 +40,12 @@
 
 * [Labo-01](Labos/Labo-01/README.md)
 * [Labo-02](Labos/Labo-02/README.md)
+* [Labo-03](Labos/Labo-03/README.md)
 
 ## Oplossingen
 
 * [Labo-01](Labos/Labo-01/oplossing.md)
 * [Labo-02](Labos/Labo-02/oplossing.md)
+* [Labo-03](Labos/Labo-03/oplossing.md)
 
 ## Project
