@@ -65,7 +65,8 @@ Dit commando zet een verborgen `.git`-map op in je projectfolder, waarin Git all
 
 **2. De status van je repository controleren**
 Voordat je wijzigingen commit of toevoegt, is het handig om te controleren welke bestanden gewijzigd zijn. Dit doe je met:
-```bashgit status
+```bash
+git status
 ```
 Dit commando geeft een overzicht van:
 
