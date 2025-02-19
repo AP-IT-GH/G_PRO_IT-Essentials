@@ -49,3 +49,5 @@
 * [Labo-03](Labos/Labo-03/oplossing.md)
 
 ## Project
+
+* [Deelopdracht 1](Project/deelopdract-1-git.md)

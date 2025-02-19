@@ -175,5 +175,38 @@ git rm bestandsnaam
 
 ### Werken met Branches
 
+Git maakt het eenvoudig om met branches te werken. Een branch is een alternatieve versie van je project waarin je kunt experimenteren zonder de hoofdversie (main of master) te beïnvloeden.
+
+Om een nieuwe branch te maken en ernaar over te schakelen, gebruik je:
+```bash
+git checkout -b nieuwe-branch
+```
+Na aanpassingen en commits kun je deze branch samenvoegen met de hoofdbranch via:
+```bash
+git merge nieuwe-branch
+```
+
+Branches zijn vooral handig bij samenwerking, waarbij ontwikkelaars aan aparte features werken en deze later samenvoegen.
 
 ### Samenwerken via aan Remote Repository
+
+Git wordt vaak gebruikt in combinatie met een remote repository zoals GitHub of GitLab, zodat meerdere ontwikkelaars aan hetzelfde project kunnen werken.
+
+Om een remote repository te koppelen, gebruik je:
+```bash
+git remote add origin <URL>
+```
+
+Om je wijzigingen die je hebt opgeslagen in je lokale repository te  sychroniseren naar je remote repository, gebruik je:
+```bash
+git push
+```
+
+Om wijzigingen van anderen op te halen en je lokale repository up-to-date te houden:
+```bash
+git pull
+```
+
+Wanneer meerdere mensen aan dezelfde bestanden werken, kunnen er merge conflicten ontstaan. Git zal aangeven welke regels conflicteren en deze moeten handmatig opgelost worden voordat de wijziging wordt gecommit.
+
+Met deze basisprincipes ben je in staat om je projectversies te beheren en efficiënt samen te werken met anderen.
