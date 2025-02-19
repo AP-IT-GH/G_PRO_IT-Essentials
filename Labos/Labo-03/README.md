@@ -30,12 +30,12 @@ Je gaat een standaard folderstructuur voor een website bouwen met slechts een pa
 2. Maak een map 'WebsiteProject' (`mkdir WebsiteProject`) en ga ernaartoe (`cd WebsiteProject`).
 3. Maak in één opdracht de volgende submappen aan: `mkdir assets css js images`
 4. Maak vervolgens de volgende bestanden aan in de juiste mappen:
-    - index.html (`touch index.html`)
-    - css/style.css (`touch css/style.css`)
-    - js/script.js (`touch js/script.js`)
-    - assets/logo.png (`touch assets/logo.png`)
+    - index.html (`touch index.html` of `New-Item -ItemType File index.html`)
+    - css/style.css (`touch css/style.css` of `New-Item -ItemType File css/style.css`)
+    - js/script.js (`touch js/script.js` of `New-Item -ItemType File js/script.js`)
+    - assets/logo.png (`touch assets/logo.png` of `New-Item -ItemType File assets/logo.png`)
 5. Controleer of alles correct is aangemaakt met `ls -R` (toont de structuur van de map en submappen).
-6. Open de volledige map in VS Code (als het geïnstalleerd is): `code .`.
+6. Open de volledige map in VS Code: `code .`.
 
 ### Oefening 3: Een Wiki Creëren met Markdown en de Terminal
 1. Open de terminal en ga naar je Documenten-map.
@@ -128,26 +128,57 @@ WikiProject/
 │   ├── git.md
 ```
 
-### Oefening 4: Markdown Wiki [Git uitbreiding]
+### Oefening 4: Initialiseren van een Git-repository
+1. Maak een nieuwe map aan op je computer genaamd `git-oefening`.
+2. Navigeer met de terminal naar deze map.
+3. Initialiseer een nieuwe Git-repository met het juiste commando.
+4. Controleer de status van de repository en beantwoord de volgende vragen:
+   - Worden er al bestanden getrackt?
+   - Wat zegt Git over de status van de repository?
 
-1. Voeg een nieuwe pagina toe aan je Wiki over een zelfgekozen onderwerp.
-2. Voeg enkele afbeeldingen toe aan de `assets/` folder en toon deze in je nieuwe pagina.
-3. Voeg een link toe naar een externe website.
-4. Maak een Git repository aan en push je wiki naar GitHub:
-    ```bash
-    # initialiseer Git
-    git init
+### Oefening 5: Bestanden toevoegen en committen
+1. Maak een nieuw bestand genaamd `index.html`.
+2. Controleer de status van de repository. Wat zie je?
+3. Voeg het bestand toe aan de staging area.
+4. Controleer opnieuw de status. Wat is er veranderd?
+5. Maak een commit met de boodschap `"Eerste commit: index.html toegevoegd"`.
+6. Controleer de commitgeschiedenis.
 
-    # Voeg alle folders en mappen in je project folder toe aan je staging area
-    git add .
+### Oefening 6: Meerdere bestanden toevoegen en verwijderen
+1. Maak drie nieuwe bestanden: `style.css`, `script.js` en `readme.md`.
+2. Controleer de status van de repository.
+3. Voeg alle bestanden in één keer toe aan de staging area.
+4. Commit de wijzigingen met een passende commitboodschap.
+5. Beslis dat `readme.md` toch niet nodig is en verwijder het zowel uit Git als van je computer.
+6. Maak een nieuwe commit met een beschrijving van de verwijdering.
+7. Bekijk de commitgeschiedenis.
 
-    # Maak een eerste commit
-    git commit -m "Eerste versie van de wiki"
+### Oefening 7: Wijzigingen bekijken en herstellen
+1. Open `index.html` en voeg een `<h1>`-titel toe.
+2. Controleer de status van de repository. Wat zie je?
+3. Bekijk de exacte wijzigingen met een Git-commando.
+4. Herstel de wijzigingen en controleer opnieuw de status.
 
-    # Voeg de link naar je remote GitHub repository toe
-    git remote add origin <repo-url>
-
-    # Push je lokale repository naar de cloud (GitHub)
-    git push -u origin main
+### Oefening 8: Veranderingen terugdraaien vóór een commit
+1. Open `script.js` en voeg volgende lijn code toe.
+    ```JavaScript
+    console.log("Hello World!");
     ```
+2. Voeg `script.js` toe aan de staging area.
+3. Beslis dat je deze wijziging toch niet wil committen.
+4. Haal `script.js` terug uit de staging area en controleer de status.
 
+### Oefening 9: Een volledige projectworkflow uitvoeren
+1. Maak een nieuw project met de volgende bestanden:
+   - `index.html`
+   - `style.css`
+   - `script.js`
+2. Initialiseer een Git-repository.
+3. Voeg de bestanden toe en commit ze.
+4. Open `style.css` en voeg een regel toe:
+   ```css
+   body { background-color: lightgray; }
+   ```
+5. Bekijk de wijzigingen en commit de aanpassing.
+6. Verwijder `script.js` uit het project en commit deze verwijdering.
+7. Controleer de commitgeschiedenis en verifieer of alle stappen correct zijn uitgevoerd.
