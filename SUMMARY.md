@@ -26,7 +26,11 @@
 
 ## Git
 
-* [Overzicht](Git/git_version_control.md)
+* [Versiebeheer en Git](Git/git_version_control.md)
+* [Git Basics](Git/Git_basics.md)
+* [Branches](Git/branching.md)
+* [Remote Repositories en Samenwerken](Git/collaborating.md)
+* [Conflicten oplossen](Git/merge_conflicts.md)
 
 ## Linux
 
@@ -41,12 +45,14 @@
 * [Labo-01](Labos/Labo-01/README.md)
 * [Labo-02](Labos/Labo-02/README.md)
 * [Labo-03](Labos/Labo-03/README.md)
+* [Labo-04](Labos/Labo-04/README.md)
 
 ## Oplossingen
 
 * [Labo-01](Labos/Labo-01/oplossing.md)
 * [Labo-02](Labos/Labo-02/oplossing.md)
 * [Labo-03](Labos/Labo-03/oplossing.md)
+* [Labo-04](Labos/Labo-04/oplossing.md)
 
 ## Project
 

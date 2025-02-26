@@ -2,7 +2,7 @@
 
 ### Leerstof
 - [Folderstructuur en Werken met de Terminal](/Folderstructuur_Terminal/folder_structure_terminal.md)
-- [Git](/Git/git_version_control.md)
+- [Git Basics](Git/Git_basics.md)
 
 
 ### Hulpbronnen
