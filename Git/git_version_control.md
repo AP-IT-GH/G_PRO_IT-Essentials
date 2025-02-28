@@ -19,6 +19,14 @@ Het versiebeheersysteem dat wij als programmeurs gebruiken, is Git. Git is softw
 
 Git doet dit door telkens wanneer we een commit maken—oftewel de huidige staat van ons project opslaan—een snapshot te nemen van hoe de bestanden er op dat moment uitzien. Zo houdt Git een logboek bij met referenties naar alle commits (save points) die we hebben gemaakt.
 
+<blockquote style="background:#FFF2DB; padding:10px; border-color:#FFAB5B">
+💡 <strong>Git for Beginners tutorial by GitHub</strong>
+
+GitHub, de bekendste cloud provider voor Git repositories heeft een leuke tutorial series gemaakt die ook eens het bekijken waard is.
+
+https://youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&si=mdpUg9QLe7opZcAO
+</blockquote>
+
 ### Installatie Git
 
 Vooraleer we van Git gebruik kunnen maken moeten we het eerst installeren en configureren. In volgende filmpjes wordt uitgelegd hoe je Git kan downloaden en correct installeert via de [officiële website](https://git-scm.com/), en vervolgens je computer identificieert in de configuratie.
