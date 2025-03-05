@@ -117,5 +117,11 @@ In deze oefening ga je een merge conflict **zelf simuleren en oplossen**.
 #### Enkele leerijke video's
 
 [Never fear merge conflicts again - git merge/pull tutorial](https://youtu.be/DloR0BOGNU0?si=QpzqxCjEqmJw3Ufx)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DloR0BOGNU0?si=ptQpx7kP9MIOyrX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 [git rebase - Why, When & How to fix conflicts](https://youtu.be/DkWDHzmMvyg?si=RA9lDzQq7O35_5Sk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkWDHzmMvyg?si=OaZjcZx2_GcGAqI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
