@@ -112,3 +112,10 @@ In deze oefening ga je een merge conflict **zelf simuleren en oplossen**.
    ```bash
    git push origin main
    ```
+
+
+#### Enkele leerijke video's
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DloR0BOGNU0?si=ptQpx7kP9MIOyrX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkWDHzmMvyg?si=OaZjcZx2_GcGAqI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
