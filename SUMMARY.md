@@ -35,6 +35,9 @@
 ## Linux
 
 * [Overzicht](Linux/README.md)
+* [Linux Distributies](Linux/distros.md)
+* [Foldersysteem & Navigatie](Linux/folder-structure.md)
+* [Handleiding & Opties](Linux/commando-opties.md)
 
 ## Docker
 
@@ -46,6 +49,7 @@
 * [Labo-02](Labos/Labo-02/README.md)
 * [Labo-03](Labos/Labo-03/README.md)
 * [Labo-04](Labos/Labo-04/README.md)
+* [Labo-05](Labos/Labo-05/README.md)
 
 ## Oplossingen
 
@@ -53,6 +57,7 @@
 * [Labo-02](Labos/Labo-02/oplossing.md)
 * [Labo-03](Labos/Labo-03/oplossing.md)
 * [Labo-04](Labos/Labo-04/oplossing.md)
+* [Labo-05](Labos/Labo-05/oplossing.md)
 
 ## Project
 

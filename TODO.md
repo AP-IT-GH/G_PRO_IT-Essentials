@@ -1,0 +1,3 @@
+- Filmpje toevoegen in distros.md dat toont hoe je SSH connectie maakt met Docker container op schoolserver.
+- .gitignore verwerken
+- Git hoofdstuk herorganiseren.
