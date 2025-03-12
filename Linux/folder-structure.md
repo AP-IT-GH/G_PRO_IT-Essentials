@@ -147,6 +147,33 @@ find /home/jannes -type d -name "Projecten"
 ```
 We zoeken naar een map (`type -d`) met naam `-name Projecten` in de home directory van de gebruiker (`/home/jannes/`).
 
+**Mappenstructuur weergeven met `tree`**
+Het `tree`-commando wordt gebruikt om de **mappenstructuur** van een directory **visueel** weer te geven in een **boomvorm**. Dit helpt bij het snel begrijpen van de bestandshiërarchie.
+```bash
+tree [opties] [directory]
+```
+- Zonder opties toont tree de volledige hiërarchie vanaf de opgegeven directory (of de huidige directory als geen pad is opgegeven).
+- Met opties kun je de uitvoer aanpassen, zoals alleen mappen tonen of een maximale diepte instellen.
+
+voorbeelden:
+```bash
+tree
+```
+Dit geeft een overzicht van de bestanden en mappen in de huidige directory.
+
+```bash
+tree /home/jannes/project
+```
+Toont de hiërarchie van de map `/home/jannes/project` en alle submappen en bestanden erin.
+
+```bash
+tree -L 2
+```
+Toont alleen de 2 niveaus diep in de directory-structuur.
+
+Probeer zelf eens na te gaan hoe je alleen de mappen, zonder de bestanden kan tonen. Je kan dit opzoeken in de handleiding van het commando (zie [commando opties](./commando-opties.md)).
+
+
 ### Absolute en Relatieve paden
 In Linux kunnen paden op verschillende manieren worden geschreven, afhankelijk van waar je je bevindt in het bestandssysteem. De manier waarop een pad begint, bepaalt hoe het geïnterpreteerd wordt.
 
