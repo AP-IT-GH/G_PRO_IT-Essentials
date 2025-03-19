@@ -107,25 +107,24 @@ Je helpt de bibliothecarissen van Rivendell met het organiseren en analyseren va
    Moria;75
    Isengard;80
    The Shire;5
-   ````
+   ```
 3. Toon alleen de eerste 3 gevaarlijkste plaatsen.
 4. Toon de 2 minst gevaarlijke plaatsen.
 
 **Stap 3: De Ringgenootschap analyseren**
 1. Toon alleen de Hobbits uit het bestand `personages.txt`.
- ```
 2. Tel het aantal personages in de lijst.
 3. Sorteer de personages alfabetisch en sla het op in een nieuw bestand `personages_sorted.txt`.
 4. Controleer of het bestand correct is opgeslagen.
 
 **Stap 4: Het Boek van de Geschiedenis**
 1. Maak een bestand `geschiedenis.txt` met de volgende tekst:
-   ```
-   One Ring to rule them all.
-   One Ring to find them.
-   One Ring to bring them all.
-   And in the darkness bind them.
-   ```
+    ```
+    One Ring to rule them all.
+    One Ring to find them.
+    One Ring to bring them all.
+    And in the darkness bind them.
+    ```
 2. Toon alleen de eerste twee regels.
 3. Toon alleen de laatste twee regels.
 4. Tel het aantal woorden in de tekst.

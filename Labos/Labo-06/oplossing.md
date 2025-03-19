@@ -226,7 +226,7 @@ Je helpt de bibliothecarissen van Rivendell met het organiseren en analyseren va
    Moria;75
    Isengard;80
    The Shire;5
-   ````
+   ```
 
    ```bash
    nano plaatsen.txt
