@@ -306,7 +306,7 @@ Je helpt de bibliothecarissen van Rivendell met het organiseren en analyseren va
 1. Filter de gevaarlijkste plaats uit `plaatsen.txt` en sla het resultaat op in `gevaarlijkste_plaats.txt`.
    
    ```bash
-   awk -F';' '$2 > 50' plaatsen.txt > gevaarlijkste_plaats.txt
+   sort -t; -k2 -n plaatsen.txt | cut -d; -f1 | head -1 > gevaarlijkste_plaats.txt
    ```
 
 2. Controleer of het bestand correct is opgeslagen.

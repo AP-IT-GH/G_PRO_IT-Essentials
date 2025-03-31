@@ -40,6 +40,8 @@
 * [Handleiding & Opties](Linux/commando-opties.md)
 * [Werken met Bestanden](Linux/bestanden.md)
 * [In- en output Streams](/Linux/streams.md)
+* [Gebruikers en Groepen](/Linux/gebruikers.md)
+* [Rechten](/Linux/rechten.md)
 
 ## Docker
 
@@ -53,6 +55,7 @@
 * [Labo-04](Labos/Labo-04/README.md)
 * [Labo-05](Labos/Labo-05/README.md)
 * [Labo-06](Labos/Labo-06/README.md)
+* [Labo-07](/Labos/Labo-07/README.md)
 
 ## Oplossingen
 
@@ -62,6 +65,7 @@
 * [Labo-04](Labos/Labo-04/oplossing.md)
 * [Labo-05](Labos/Labo-05/oplossing.md)
 * [Labo-06](Labos/Labo-06/oplossing.md)
+* [Labo-07](/Labos/Labo-07/oplossing.md)
 
 ## Project
 
