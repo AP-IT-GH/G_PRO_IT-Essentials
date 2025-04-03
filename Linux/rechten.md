@@ -56,6 +56,17 @@ chmod 754 bestand.txt
 ##### Met symbolische notatie
 
 Wanneer we gebruik willen maken van de symbolische notatie doen we het als volgt:
+
+| Recht   | notatie | Betekenis                                         |
+|---------|--------|----------------------------------------------------|
+| read    | +r      | Lezen/bekijken toestaan               |
+| read    | -r      | Lezen/bekijken blokkeren              |
+| write   | +w      | Schrijven/wijzigen (of bestanden toevoegen in map) toestaan   |
+| write   | -w      | Schrijven/wijzigen (of bestanden toevoegen in map) blokkeren  |
+| execute | +x      | Uitvoeren van een bestand / map betreden toestaan          |
+| execute | -x      | Uitvoeren van een bestand / map betreden blokkeren         |
+
+**Voorbeeld:**
 ```bash
 chmod u+x bestand.txt    # Voeg uitvoer toe voor eigenaar (+)
 chmod g-w bestand.txt    # Haal schrijfrecht weg van groep (-)
