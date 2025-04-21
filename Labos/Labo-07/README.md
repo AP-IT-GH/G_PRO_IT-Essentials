@@ -1,4 +1,4 @@
-# Labo-06: Werken met bestanden in Linux
+# Labo-07: Gebruikers en Rechten in Linux
 
 ### Leerstof
 - [Gebruikers en Groepen](/Linux/gebruikers.md)
