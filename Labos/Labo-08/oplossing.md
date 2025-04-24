@@ -97,60 +97,45 @@ tar -xzvf ~/joker/laughter.tar.gz -C ~/joker/storage
 ls -l ~/joker/storage/laughter
 ```
 
-## Oefening 3: Two-Face’s Split Processes ⚖️
-Two-Face heeft de macht over het systeem en voert dubbel zoveel processen uit als normaal. Jouw missie is om de systeemprestaties te bewaken en de gevaarlijke processen te beëindigen.
+## Oefening 3: The Riddler’s Endless Loop 🧩
+De Riddler heeft een proces gestart dat constant berichten naar het systeem stuurt. Jouw taak is om het proces te identificeren, monitoren en correct te beëindigen.
 
-**Stap 1: Lijst van actieve processen**
-1. Toon alle actieve processen op het systeem:
+**Stap 1: Aanmaken van verdacht proces**
+1. Maak een bestand genaamd malicious_script.sh met de volgende inhoud:
 ```bash
-ps -aux
+#!/bin/bash
+while true; do echo "Harvey is watching..."; sleep 10; done &
 ```
 
-2. Gebruik top om processen in real-time te bekijken:
+2. Zorg ervoor dat je het script kan uitvoeren:
 ```bash
-top
+chmod +x malicious_script.sh
 ```
 
-**Stap 2: Identificeer verdachte processen**
-1 Zoek processen van een specifieke gebruiker (bijvoorbeeld harvey):
+3. Start het script met het volgende commando: 
 ```bash
-ps -u harvey
+./malicious_script.sh
 ```
 
-2. Filter processen op naam, zoals malicious_script:
+**Stap 2: Identificeren van het proces**
+1. Zoek het proces met `ps` en `grep`:
 ```bash
 ps -aux | grep malicious_script
 ```
 
-**Stap 3: Prioriteiten beheren**
-1. Verhoog de prioriteit van een proces met renice. Gebruik de proces-ID (PID):
+**Stap 3: Beëindigen van het proces**
+1. Beëindig het proces met de `kill`-command:
 ```bash
-sudo renice -n -5 -p <PID>
+kill <PID>
+```
+*(Vervang <PID> door het proces-ID dat je vond in stap 2.)*
+
+2. Als het proces blijft lopen, forceer beëindiging:
+```bash
+kill -9 <PID>
 ```
 
-2. Verlaag de prioriteit van een proces:
+3. Controleer of het proces correct is gestopt:
 ```bash
-sudo renice -n 10 -p <PID>
-```
-
-**Stap 4: Een proces beëindigen**
-1. Beëindig een specifiek proces met de kill-command:
-```bash
-sudo kill <PID>
-```
-
-2. Gebruik kill met een sterker signaal (bijvoorbeeld SIGKILL):
-```bash
-sudo kill -9 <PID>
-```
-
-**Stap 5: Resourcegebruik monitoren**
-1. Controleer het CPU-gebruik per proces:
-```bash
-top
-```
-
-2. Gebruik htop (indien geïnstalleerd) voor een meer intuïtieve weergave:
-```bash
-htop
+ps -aux | grep malicious_script
 ```

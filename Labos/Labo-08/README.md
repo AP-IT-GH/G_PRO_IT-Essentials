@@ -39,26 +39,25 @@ The Joker heeft chaotische bestanden verspreid die dringend moeten worden sameng
 1. Pak het gecomprimeerde archief uit naar de map storage.
 2. Controleer of de bestanden correct zijn hersteld.
 
-## Oefening 3: Two-Face’s Split Processes ⚖️
-Two-Face heeft de macht over het systeem en voert dubbel zoveel processen uit als normaal. Jouw missie is om de systeemprestaties te bewaken en de gevaarlijke processen te beëindigen.
+## Oefening 3: The Riddler’s Endless Loop 🧩
+De Riddler heeft een proces gestart dat constant berichten naar het systeem stuurt. Jouw taak is om het proces te identificeren, monitoren en correct te beëindigen.
 
-**Stap 1: Lijst van actieve processen**
-1. Toon alle actieve processen op het systeem.
-2. Gebruik top om processen in real-time te bekijken.
+**Stap 1: Aanmaken van verdacht proces**
+1. Maak een bestand genaamd malicious_script.sh met de volgende inhoud:
+```bash
+#!/bin/bash
+while true; do echo "Harvey is watching..."; sleep 10; done &
+```
+2. Zorg ervoor dat je het script kan uitvoeren.
+3. Start het script met het volgende commando: 
+```bash
+./malicious_script.sh
+```
 
-**Stap 2: Identificeer verdachte processen**
-1 Zoek processen van een specifieke gebruiker (bijvoorbeeld harvey).
-2. Filter processen op naam, zoals malicious_script.
+**Stap 2: Identificeren van het proces**
+1. Zoek het proces met `ps` en `grep`.
 
-**Stap 3: Prioriteiten beheren**
-1. Verhoog de prioriteit van een proces met renice. Gebruik de proces-ID (PID).
-2. Verlaag de prioriteit van een proces.
-
-**Stap 4: Een proces beëindigen**
-1. Beëindig een specifiek proces met de kill-command.
-
-2. Gebruik kill met een sterker signaal (bijvoorbeeld SIGKILL).
-
-**Stap 5: Resourcegebruik monitoren**
-1. Controleer het CPU-gebruik per proces.
-2. Gebruik htop (indien geïnstalleerd) voor een meer intuïtieve weergave.
+**Stap 3: Beëindigen van het proces**
+1. Beëindig het proces met de `kill`-command.
+2. Als het proces blijft lopen, forceer beëindiging.
+3. Controleer of het proces correct is gestopt.
