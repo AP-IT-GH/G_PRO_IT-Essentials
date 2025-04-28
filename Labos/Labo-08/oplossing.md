@@ -1,4 +1,4 @@
-# Labo-09: Archiveren, Comprimeren, Processen
+# Labo-08: Archiveren, Comprimeren, Processen
 
 ### Leerstof
 - [Archieven en compressie](/Linux/archieven-en-compressie.md)
