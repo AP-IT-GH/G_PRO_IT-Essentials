@@ -45,6 +45,7 @@
 * [Archieven en Compressie](/Linux/archieven-en-compressie.md)
 * [Omgevingsvariabelen](/Linux/omgevingsvariabelen.md)
 * [Processen](/Linux/processen.md)
+* [Software](/Linux/software.md)
 
 ## Docker
 
@@ -60,6 +61,7 @@
 * [Labo-06](Labos/Labo-06/README.md)
 * [Labo-07](/Labos/Labo-07/README.md)
 * [Labo-08](/Labos/Labo-08/README.md)
+* [Labo-09](/Labos/Labo-09/README.md)
 
 ## Oplossingen
 
