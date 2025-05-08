@@ -62,6 +62,7 @@
 * [Labo-07](/Labos/Labo-07/README.md)
 * [Labo-08](/Labos/Labo-08/README.md)
 * [Labo-09](/Labos/Labo-09/README.md)
+* [Labo-10](/Labos/Labo-10/README.md)
 
 ## Oplossingen
 
@@ -73,6 +74,7 @@
 * [Labo-06](Labos/Labo-06/oplossing.md)
 * [Labo-07](/Labos/Labo-07/oplossing.md)
 * [Labo-08](/Labos/Labo-08/oplossing.md)
+* [Labo-10](/Labos/Labo-10/oplossing.md)
 
 ## Project
 
