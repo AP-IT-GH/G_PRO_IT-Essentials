@@ -79,3 +79,4 @@
 ## Project
 
 * [Deelopdracht 1](Project/deelopdract-1-git.md)
+* [Deelopdracht 1](Project/deelopdracht-2-pc.md)

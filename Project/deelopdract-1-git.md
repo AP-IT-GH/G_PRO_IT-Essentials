@@ -1,13 +1,13 @@
-# **Deelopdract 1: Opzetten van een Wiki met Markdown en Git**
+# Deelopdract 1: Opzetten van een Wiki met Markdown en Git
 
-## **Opdrachtbeschrijving**
+## Opdrachtbeschrijving
 In deze opdracht ga je een uitgebreide **Wiki** opzetten met behulp van **Git en GitHub**. Je leert hoe je een lokale repository initialiseert, bestanden toevoegt, commits uitvoert, een nieuwe branch aanmaakt, een merge uitvoert en samenwerkt met een **remote repository**. Daarnaast zul je een **merge conflict** moeten oplossen.
 
 Je mag zelf een thema kiezen voor je Wiki. Dit kan een serie, film, game of ander onderwerp zijn dat je interessant vindt. Denk bijvoorbeeld aan een Wiki over de wereld van **Harry Potter, The Lord of the Rings, Star Wars, Marvel, The Witcher, Zelda, Pokémon** of een andere franchise die je leuk vindt.
 
 ---
 
-## **Doelstellingen**
+## Doelstellingen
 - Een **lokale Git-repository** opzetten
 - Markdown-bestanden toevoegen en aanpassen
 - **Commits** uitvoeren om wijzigingen op te slaan
@@ -17,7 +17,7 @@ Je mag zelf een thema kiezen voor je Wiki. Dit kan een serie, film, game of ande
 
 ---
 
-## **Good Practices (Beoordelingscriteria)**
+## Good Practices (Beoordelingscriteria)
 Om goed met Git te werken en een gestructureerde repository op te zetten, wordt beoordeeld op de volgende best practices:
 
 - **Duidelijke commit messages**: Gebruik betekenisvolle commitberichten die beschrijven wat er veranderd is.
@@ -29,7 +29,7 @@ Om goed met Git te werken en een gestructureerde repository op te zetten, wordt 
 
 ---
 
-## **Stap 1: Opzetten van een lokale repository**
+## Stap 1: Opzetten van een lokale repository
 1. Maak een nieuwe map aan op je computer genaamd `wiki-project`.
 2. Navigeer met de terminal naar deze map.
 3. Initialiseer een nieuwe Git-repository.
@@ -38,7 +38,7 @@ Om goed met Git te werken en een gestructureerde repository op te zetten, wordt 
 
 ---
 
-## **Stap 2: Meer content toevoegen**
+## Stap 2: Meer content toevoegen
 1. Voeg drie extra Markdown-bestanden toe, bijvoorbeeld `personages.md`, `verhaal.md` en `locaties.md`.
 2. Voeg in elk bestand een titel en een korte beschrijving toe over jouw gekozen thema.
 3. Update `index.md` om links naar deze bestanden toe te voegen.
@@ -46,7 +46,7 @@ Om goed met Git te werken en een gestructureerde repository op te zetten, wordt 
 
 ---
 
-## **Stap 3: Werken met branches**
+## Stap 3: Werken met branches
 1. Maak een nieuwe branch aan genaamd `about-page`.
 2. Schakel over naar de nieuwe branch.
 3. Voeg een `about.md` bestand toe waarin je een korte beschrijving plaats over jezelf.
@@ -54,20 +54,20 @@ Om goed met Git te werken en een gestructureerde repository op te zetten, wordt 
 
 ---
 
-## **Stap 4: Samenvoegen van de branches**
+## Stap 4: Samenvoegen van de branches
 1. Merge de `about-page` branch terug in `main`.
 2. Verwijder de `about-page` branch na het mergen.
 
 ---
 
-## **Stap 5: Werken met een remote repository**
+## Stap 5: Werken met een remote repository
 1. Maak een nieuwe repository aan op **GitHub** genaamd `wiki-project` (zonder README, `.gitignore` of licentiebestand).
 2. Koppel je lokale repository aan GitHub.
 3. Push de `main` branch naar de remote repository.
 
 ---
 
-## **Stap 6: Een merge conflict simuleren en oplossen**
+## Stap 6: Een merge conflict simuleren en oplossen
 1. Maak een nieuwe branch `update-verhaal`.
 2. Open `verhaal.md` en voeg een nieuwe paragraaf toe.
 3. Commit en push deze wijziging.
