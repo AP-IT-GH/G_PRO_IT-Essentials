@@ -4,7 +4,7 @@
 
 ## Talstelsels
 
-* [Overzicht](Talstelsels/README.md)
+* [Talstelsels](Talstelsels/README.md)
 * [Decimaal](Talstelsels/decimaal/README.md)
 * [Binair](Talstelsels/binair/README.md)
 * [Hexadecimaal](Talstelsels/hexadecimaal/README.md)
@@ -15,7 +15,7 @@
 
 ## Character Encoding
 
-* [Overzicht](Character_Encoding/README.md)
+* [Character encoding](Character_Encoding/README.md)
 * [Bits & Bytes](Character_Encoding/opslag.md)
 * [Soorten Encodings](Character_Encoding/karakterCoderingen.md)
 * [Unicode](Character_Encoding/Unicode.md)
@@ -34,7 +34,7 @@
 
 ## Linux
 
-* [Overzicht](Linux/README.md)
+* [Besturingssystemen](Linux/README.md)
 * [Linux Distributies](Linux/distros.md)
 * [Foldersysteem & Navigatie](Linux/folder-structure.md)
 * [Handleiding & Opties](Linux/commando-opties.md)
@@ -49,7 +49,11 @@
 
 ## Docker
 
-* [Overzicht](Docker/README.md)
+* [Docker Intro](Docker/README.md)
+
+## Computer Hardware
+
+* [Computer Hardware](/Hardware/README.md)
 
 ## Labos
 
