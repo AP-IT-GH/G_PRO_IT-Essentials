@@ -1,1 +1,1 @@
-Hier komt een algemene introductie van de cursus.
+Het olod IT Essentials behandelt de basiskennis voor elk IT-profiel. In dit olod behandelen we zaken gaande van praktisch aan de slag gaan met een computersysteem tot het bespreken van de interne werking van een computersysteem. De onderwerpen die behandeld worden in dit olod zijn de basis die elke programmeur nodig heeft. Veel onderwerpen zullen dan ook als basis dienen voor andere olod's binnen de opleiding.
