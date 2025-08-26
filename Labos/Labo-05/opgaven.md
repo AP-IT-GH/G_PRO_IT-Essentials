@@ -1,7 +1,7 @@
 # Labo-05: Linux Folderstructuur & Navigatie
 
 ### Leerstof
-- [Het foldersysteem in Linux en navigeren met tekstcommando’s](/Linux/folder-structure.md)
+- [Het foldersysteem in Linux en navigeren met tekstcommando’s](/Linux/navigeren.md)
 
 --- 
 

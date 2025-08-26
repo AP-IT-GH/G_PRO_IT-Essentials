@@ -1,7 +1,11 @@
 # Labo-10: Docker
 
 ### Leerstof
-- [Docker](/Docker/README.md)
+* [Containers](/Docker/containers-en-docker.md)
+* [Containers runnen](/Docker/containers-runnen.md)
+* [Images maken](/Docker/images-maken.md)
+* [Dockerfile](/Docker/de-dockerfile.md)
+* [Images publiceren](/Docker/images-publiceren.md)
 
 --- 
 

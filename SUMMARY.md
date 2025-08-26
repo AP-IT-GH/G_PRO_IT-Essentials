@@ -57,7 +57,7 @@
 
 ## Docker
 
-* [Containers](Docker/containers-en-docker.md)
+* [Containers](./Docker/containers-en-docker.md)
 * [Containers runnen](./Docker/containers-runnen.md)
 * [Images maken](./Docker/images-maken.md)
 * [Dockerfile](./Docker/de-dockerfile.md)
@@ -66,29 +66,31 @@
 
 ## Labos
 
-* [Labo-03](Labos/Labo-03/README.md) <!-- Folderstructuur & Git intro -->
-* [Labo-04](Labos/Labo-04/README.md) <!-- Git branching -->
-* [Labo-01](Labos/Labo-01/README.md) <!-- Talstelsels -->
-* [Labo-02](Labos/Labo-02/README.md) <!-- Character Encoding -->
-* [Labo-05](Labos/Labo-05/README.md) <!-- Linux folderstructuur -->
-* [Labo-06](Labos/Labo-06/README.md) <!-- Linux bestanden & streams -->
-* [Labo-07](/Labos/Labo-07/README.md) <!-- Linux gebruikers & rechten -->
-* [Labo-08](/Labos/Labo-08/README.md) <!-- Linux compressie & processen -->
-* [Labo-09](/Labos/Labo-09/README.md) <!-- Linux software -->
-* [Labo-10](/Labos/Labo-10/README.md) <!-- Docker -->
+* [Labo-01](./Labos/Labo-01/opgaven.md) <!-- Folderstructuur & Git intro -->
+* [Labo-02](./Labos/Labo-02/opgaven.md) <!-- Git branching -->
+* [Labo-03](./Labos/Labo-03/opgaven.md) <!-- Talstelsels -->
+* [Labo-04](Labos/Labo-04/opgaven.md) <!-- Character Encoding -->
+* [Labo-05](Labos/Labo-05/opgaven.md) <!-- Linux folderstructuur -->
+* [Labo-06](Labos/Labo-06/opgaven.md) <!-- Linux bestanden & streams -->
+* [Labo-07](/Labos/Labo-07/opgaven.md) <!-- Linux gebruikers & rechten -->
+* [Labo-08](/Labos/Labo-08/opgaven.md) <!-- Linux compressie & processen -->
+* [Labo-09](/Labos/Labo-09/opgaven.md) <!-- Linux software -->
+* [Labo-10](/Labos/Labo-10/opgaven.md) <!-- Docker -->
 
 
 ## Oplossingen
 
-* [Labo-03](Labos/Labo-03/oplossing.md) <!-- Folderstructuur & Git intro -->
-* [Labo-04](Labos/Labo-04/oplossing.md) <!-- Git branching -->
+* [Labo-01](./Labos/Labo-01/oplossing.md) <!-- Folderstructuur & Git intro -->
+* [Labo-02](./Labos/Labo-02/oplossing.md) <!-- Git branching -->
+* [Labo-03](./Labos/Labo-03/oplossing.md) <!-- Talstelsels -->
+* [Labo-04](Labos/Labo-04/oplossing.md) <!-- Character Encoding -->
 * [Labo-05](Labos/Labo-05/oplossing.md) <!-- Linux folderstructuur -->
 * [Labo-06](Labos/Labo-06/oplossing.md) <!-- Linux bestanden & streams -->
 * [Labo-07](/Labos/Labo-07/oplossing.md) <!-- Linux gebruikers & rechten -->
 * [Labo-08](/Labos/Labo-08/oplossing.md) <!-- Linux compressie & processen -->
-* [Labo-10](/Labos/Labo-10/oplossing.md)  <!-- Docker -->
-* [Labo-01](Labos/Labo-01/oplossing.md) <!-- Talstelsels -->
-* [Labo-02](Labos/Labo-02/oplossing.md) <!-- Character Encoding -->
+* [Labo-09](/Labos/Labo-09/oplossing.md) <!-- Linux software -->
+* [Labo-10](/Labos/Labo-10/oplossing.md) <!-- Docker -->
+
 
 ## Project
 

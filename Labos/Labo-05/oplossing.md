@@ -1,7 +1,7 @@
 # Labo-05: Linux Folderstructuur & Navigatie
 
 ### Leerstof
-- [Het foldersysteem in Linux en navigeren met tekstcommando’s](/Linux/folder-structure.md)
+- [Het foldersysteem in Linux en navigeren met tekstcommando’s](/Linux/navigeren.md)
 
 ## Oefening 1: De schatzoektocht van Kapitein Linux 🏴‍☠️
 Je helpt Kapitein Linux bij het organiseren van zijn schip, het zoeken naar een schat en het beschermen van de buit. Onderweg oefen je met het maken, verplaatsen, kopiëren en verwijderen van bestanden en mappen.
