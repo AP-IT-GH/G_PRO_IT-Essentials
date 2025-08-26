@@ -1,7 +1,10 @@
 # Labo-02: Character Encoding
 
 ### Leerstof
-- Character Encoding
+* [Character encoding](/Character_Encoding/introductie.md)
+* [Bits & Bytes](/Character_Encoding/bits-en-bytes.md)
+* [Soorten Encodings](/Character_Encoding/soorten.md)
+* [Unicode](/Character_Encoding/unicode.md)
 
 ## Hulpbronnen
 - [ASCI tabel](http://www.asciitabel.be/)

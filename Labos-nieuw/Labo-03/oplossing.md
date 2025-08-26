@@ -1,7 +1,14 @@
 # Labo-01: Talstelsels [OPLOSSINGEN]
 
 ## Leerstof
-- [Talstelsels](/Talstelsels/README.md)
+* [Talstelsels](/Talstelsels/introductie.md)
+* [Decimaal](/Talstelsels/decimaal.md)
+* [Binair](/Talstelsels/binair.md)
+* [Hexadecimaal](/Talstelsels/hexadecimaal.md)
+* [Octaal](/Talstelsels/octaal.md)
+* [Omrekenen naar decimaal](/Talstelsels/decimaal-omrekenen.md)
+* [Omrekenen naar binair](/Talstelsels/binair-omrekenen.md)
+* [Omrekenen naar octaal of hexadecimaal](/Talstelsels/octaal-en-hexadecimaal-omrekenen.md)
 
 ## 1. Decimaal naar Binair
 

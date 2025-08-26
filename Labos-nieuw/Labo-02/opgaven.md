@@ -1,7 +1,7 @@
 # Labo-04: Branching, Merging en Remote Repository
 
 ### Leerstof
-- [Branches](/Git/branching.md)
+- [Branches](/Git/branches.md)
 
 ## Oefening 1: Werken met Branches
 

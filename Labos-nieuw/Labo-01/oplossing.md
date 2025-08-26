@@ -1,8 +1,9 @@
 # Labo-03: Folderstructuur, Terminal en Git
 
 ### Leerstof
-- [Folderstructuur en Werken met de Terminal](/Folderstructuur_Terminal/folder_structure_terminal.md)
-- [Git](/Git/git_version_control.md)
+- [Folderstructuur en Werken met de Terminal](/folderstructuur-en-terminal.md)
+- [Versiebeheer](/Git/versiebeheer.md)
+- [Git Basics](/Git/git-basics.md)
 
 
 ### Hulpbronnen
