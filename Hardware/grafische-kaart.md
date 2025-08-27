@@ -1,4 +1,5 @@
 ### Grafische kaart
+![GPU NVidia](../images/gpu_nvidia.png)
 
 De grafische kaart verwerkt visuele informatie en is essentieel voor gaming, videobewerking en andere grafisch-intensieve taken. Sommige computers hebben geïntegreerde GPU’s (in de CPU), terwijl anderen een aparte grafische kaart hebben voor betere prestaties.
 

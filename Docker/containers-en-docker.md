@@ -1,6 +1,6 @@
 # Docker
 
-Wanneer je een app maakt, kan het soms best lastig zijn om ervoor te zorgen dat alles goed werkt op verschillende computers. Misschien draait een programma prima op je eigen laptop, maar geeft het foutmeldingen op die van een collaga. Dit komt vaak door verschillen in de instellingen en programma's die nodig zijn om de app te laten werken.
+Wanneer je een app maakt, kan het soms best lastig zijn om ervoor te zorgen dat alles goed werkt op verschillende computers. Misschien draait een programma prima op je eigen laptop, maar geeft het foutmeldingen op die van een collega. Dit komt vaak door verschillen in de instellingen en programma's die nodig zijn om de app te laten werken.
 
 Docker helpt bij dit probleem door een app en alles wat die nodig heeft in een "**container**" te stoppen. Denk aan een RPG waarin je een personage ontwikkelt met speciale vaardigheden, uitrusting en eigenschappen. Stel je voor dat je dit personage meesleept naar verschillende werelden, maar elke keer dat je een nieuwe wereld binnenstapt, moet je alle instellingen opnieuw aanpassen—je vaardigheden werken ineens anders, je wapens zijn niet compatibel, en sommige spreuken falen door verschillen in de spelregels van die wereld.
 
@@ -10,6 +10,8 @@ In dit hoofdstuk ontdek je wat Docker is, waarom het zo handig is voor veel proj
 
 
 ## Wat is Docker?
+
+![Docker Whale](../images/docker_whale.png)
 
 Docker is een platform waarmee je applicaties en hun omgeving kunt verpakken in containers. Deze containers zorgen ervoor dat software overal op dezelfde manier werkt, ongeacht op welk systeem je ze draait. Dit maakt het eenvoudig om applicaties te ontwikkelen, testen en implementeren zonder problemen door verschillende configuraties. Docker helpt ontwikkelaars efficiënter te werken en biedt een flexibele, gestandaardiseerde oplossing voor softwaredistributie.
 
@@ -43,6 +45,8 @@ docker run hello-world
 Als alles goed werkt, zie je een bericht waarin Docker aangeeft dat de test geslaagd is.
 
 ## Basisbegrippen
+![docker schema](../images/docker_schema.png)
+
 Voordat je zelf containers gaat maken, is het handig om de basisbegrippen te begrijpen:
 - **Images**: In Docker zijn images als bouwplannen voor containers. Een image bevat alles wat nodig is om een applicatie uit te voeren, zoals de code, instellingen, afhankelijkheden en het besturingssysteem. Wanneer je een container start, wordt deze gemaakt op basis van een image.
 
